@@ -1,4 +1,4 @@
-# Nnumpy-Challange
+# Numpy-Challange
 AnitaB Numpy Challenge
 
 Problem 1: Create an integer identity matrix of size (5, 6). Print the Numpy array. 
